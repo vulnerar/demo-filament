@@ -1,0 +1,10 @@
+services:
+  app:
+    container_name: "filament-app"
+    build:
+      context: ../
+    restart: unless-stopped
+    ports:
+      - "127.0.0.1:${APP_PORT}:80"
+    volumes:
+      - .laravel.env:/var/www/.env

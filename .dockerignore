@@ -1,0 +1,17 @@
+.cache
+.config
+.junie
+.ai
+.claude
+.git
+.github
+.idea
+.local
+.npm
+docker/docker-compose.yml
+docker/.env
+docker/.env.example
+node_modules
+.bash_history
+Dockerfile
+.dockerignore
