@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "fcf24319fc58d27c13e20c7c5db2ddb3",
+    "content-hash": "c20236981035fa6b41505968f0d9fda6",
     "packages": [
         {
             "name": "akaunting/laravel-money",
@@ -11429,16 +11429,16 @@
         },
         {
             "name": "vulnerar/agent",
-            "version": "v1.0.4",
+            "version": "v1.1.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/vulnerar/agent.git",
-                "reference": "17ca557e85cdb26f0a16c290fb21ffc3e86712e3"
+                "reference": "fb716c5ee20f58f0cc2ab3e0951c264a70121aa0"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/vulnerar/agent/zipball/17ca557e85cdb26f0a16c290fb21ffc3e86712e3",
-                "reference": "17ca557e85cdb26f0a16c290fb21ffc3e86712e3",
+                "url": "https://api.github.com/repos/vulnerar/agent/zipball/fb716c5ee20f58f0cc2ab3e0951c264a70121aa0",
+                "reference": "fb716c5ee20f58f0cc2ab3e0951c264a70121aa0",
                 "shasum": ""
             },
             "require": {
@@ -11476,9 +11476,9 @@
             "description": "Vulnerar Agent for Laravel Application Endpoints.",
             "support": {
                 "issues": "https://github.com/vulnerar/agent/issues",
-                "source": "https://github.com/vulnerar/agent/tree/v1.0.4"
+                "source": "https://github.com/vulnerar/agent/tree/v1.1.1"
             },
-            "time": "2026-09-10T16:36:47+00:00"
+            "time": "2026-10-01T18:02:50+00:00"
         },
         {
             "name": "vulnerar/http",

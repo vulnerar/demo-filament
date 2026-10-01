@@ -24,7 +24,7 @@
         "spatie/laravel-flare": "^2.2",
         "squirephp/countries-en": "^3.3",
         "squirephp/currencies-en": "^3.3",
-        "vulnerar/agent": "^1.0.4"
+        "vulnerar/agent": "^1.1.1"
     },
     "require-dev": {
         "barryvdh/laravel-debugbar": "^3.6",
